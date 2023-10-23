@@ -1,0 +1,17 @@
+Pemesanan Tiket Pesawat
+
+Users		tiket			transaksi
+	
+idUser		idTiket			idTransaksi
+username	kodeRute		idTiket
+email		kodePesawat		Total
+password	namaPembeli	
+			tglBerangkat
+			waktuBerangkat
+			waktuSampai
+			harga
+			noKursi
+			kelas
+			berangkat
+			tujuan
+			total
